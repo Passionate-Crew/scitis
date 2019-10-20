@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scitis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scitis_jar</output-path>
+    <root id="archive" name="scitis.jar">
+      <element id="module-output" name="scitis" />
+    </root>
+  </artifact>
+</component>
